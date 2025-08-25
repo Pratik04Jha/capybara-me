@@ -19,14 +19,6 @@
     "cute",
     "cute-animals"
   ],
-  "homepage": "https://github.com/Pratik04Jha/capybara-me#readme",
-  "bugs": {
-    "url": "https://github.com/Pratik04Jha/capybara-me/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Pratik04Jha/capybara-me.git"
-  },
   "license": "MIT",
   "author": "Pratik Jha",
   "type": "module",
