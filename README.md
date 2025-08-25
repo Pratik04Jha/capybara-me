@@ -2,11 +2,7 @@
 A fun CLI tool that shows random capybara ASCII arts.
 
 Install
-npm install -g capibara-mi
-
-or just:
-
-npx capibara-mi
+npm install capibara-mi
 
 Usage
 capibara-mi
