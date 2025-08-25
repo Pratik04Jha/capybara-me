@@ -1,6 +1,6 @@
 {
   "name": "capybara-me",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Generate random capybara ASCII art with chill vibes in your terminal.",
   "keywords": [
     "capybara",
