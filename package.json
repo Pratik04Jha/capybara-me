@@ -1,0 +1,41 @@
+{
+  "name": "capybara-me",
+  "version": "1.0.0",
+  "description": "Generate random capybara ASCII art with chill vibes in your terminal.",
+  "keywords": [
+    "capybara",
+    "ascii",
+    "art",
+    "ascii-art",
+    "fun",
+    "cli",
+    "random",
+    "animals",
+    "capibara",
+    "terminal",
+    "console",
+    "cute",
+    "meme",
+    "cute",
+    "cute-animals"
+  ],
+  "homepage": "https://github.com/Pratik04Jha/capibara-me#readme",
+  "bugs": {
+    "url": "https://github.com/Pratik04Jha/capibara-me/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratik04Jha/capibara-me.git"
+  },
+  "license": "MIT",
+  "author": "Pratik Jha",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+  "capybara-mi": "index.js"
+}
+
+}
