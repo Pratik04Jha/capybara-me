@@ -1,12 +1,12 @@
 # capibara-me
 
-![npm](https://img.shields.io/npm/v/capibara-me)
-![npm downloads](https://img.shields.io/npm/dw/capibara-me)
-![license](https://img.shields.io/npm/l/capibara-me)
+![npm](https://img.shields.io/npm/v/capybara-me)
+![npm downloads](https://img.shields.io/npm/dw/capybara-me)
+![license](https://img.shields.io/npm/l/capybara-me)
 
-> **Returns some ASCII capybaras. You know, for spicing up your command line. With capybaras..**  
+> **Returns some ASCII capybaras. For making up your CLI cute. With capybaras.. of coarse**  
 Generate **cute, funny, and chill Capybara ASCII art** in seconds.  
-Perfect for developers who love capybaras and memes.
+Perfect for developers who love **capybaras** and **memes**.
 
 ---
 
@@ -29,21 +29,21 @@ Whether you want to **decorate your console**, **make your app fun**, or **show 
 ---
 
 ### Installation
-**1. Use without installing (quick way):**
 ```bash
 npm install capibara-me
 ```
 
-**2. Use without installing (quick way):**
-```bash
-npx capibara-me
-```
-
 ### Usage
+**1. Copy and paste this code in your main file **
 ```javascript
 import capibara from "capibara-me";
 
 console.log(capybara());
+```
+
+**2. Directly paste this command after installation**
+``` bash
+npx capibara-me
 ```
 
 ### Example Output
