@@ -1,14 +1,23 @@
-# capibara-me
+# capybara-me
 A fun CLI tool that shows random capybara ASCII arts.
 
+------------------------------------------
+
 Install
-npm install capibara-mi
+npm install capybara-me
 
-Usage
-capibara-mi
+------------------------------------------
 
+Usage:-
+import getRandomCapybara from "capybara-me";
+
+console.log(getRandomCapybara());
+
+------------------------------------------
 
 You’ll see a cute capybara face each time you run it, have fun and relax...
+
+------------------------------------------
 
 Example Output:-
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀

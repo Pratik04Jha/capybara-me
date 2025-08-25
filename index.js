@@ -137,9 +137,14 @@ const capybaraFaces = [
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠋⠁⢰⣿⡽⢛⡧⢠⡇⠀⠀⠀⠉⠉⠙⠓⠒⠒⠚⠉⠁⠀⠉⠑⠒⠒⠉⠉⠁⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠒⣿⣤⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀`]
 
-function getRandomCapybaraFace() {
-    const randomIndex = Math.floor(Math.random() * capybaraFaces.length);
-    return capybaraFaces[randomIndex];
+function getRandomCapybara() {
+  return capybaraFaces[Math.floor(Math.random() * capybaraFaces.length)];
 }
 
-console.log(getRandomCapybaraFace());
+if (import.meta.url === `file://${process.argv[1]}`) {
+  console.log(getRandomCapybara());
+}
+
+export default getRandomCapybara;
+
+console.log(getRandomCapybara());
