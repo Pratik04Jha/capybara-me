@@ -1,4 +1,4 @@
-# capibara-me
+# capybara-me
 
 ![npm](https://img.shields.io/npm/v/capybara-me)
 ![npm downloads](https://img.shields.io/npm/dw/capybara-me)
@@ -22,7 +22,7 @@ Whether you want to **decorate your console**, **make your app fun**, or **show 
 
 ### Features
 1. Random **Capybara ASCII art** every time you run it  
-2.  Works as a **CLI tool** (`npx capibara-me`)  
+2.  Works as a **CLI tool** (`npx capybara-me`)  
 3.  Can be imported into your code  
 4.  Lightweight, zero-config, and fun  
 
@@ -30,13 +30,13 @@ Whether you want to **decorate your console**, **make your app fun**, or **show 
 
 ### Installation
 ```bash
-npm install capibara-me
+npm install capybara-me
 ```
 
 ### Usage
 **1. Copy and paste this code in your main file**
 ```javascript
-import getRandomCapybara from "capibara-me";
+import getRandomCapybara from "capybara-me";
 
 console.log(getRandomCapybara());
 ```
@@ -73,4 +73,7 @@ npx capibara-me
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣛⠁⢋⡀⠀⠀⠀⠀⣛⣛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
---- 
+```
+
+### Lisense
+Code is available unser MIT license
