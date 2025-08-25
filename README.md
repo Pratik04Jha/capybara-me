@@ -36,9 +36,9 @@ npm install capibara-me
 ### Usage
 **1. Copy and paste this code in your main file**
 ```javascript
-import capibara from "capibara-me";
+import getRandomCapybara from "capibara-me";
 
-console.log(capybara());
+console.log(getRandomCapybara());
 ```
 
 **2. Directly paste this command after installation**
