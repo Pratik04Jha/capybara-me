@@ -1,6 +1,6 @@
 {
   "name": "capybara-me",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate random capybara ASCII art with chill vibes in your terminal.",
   "keywords": [
     "capybara",
@@ -27,7 +27,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-  "capybara-mi": "./index.js"
-}
-
+    "capybara-mi": "./index.js"
+  }
 }
