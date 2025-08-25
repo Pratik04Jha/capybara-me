@@ -34,7 +34,7 @@ npm install capibara-me
 ```
 
 ### Usage
-**1. Copy and paste this code in your main file **
+**1. Copy and paste this code in your main file**
 ```javascript
 import capibara from "capibara-me";
 
