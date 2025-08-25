@@ -27,7 +27,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-  "capybara-mi": "index.js"
+  "capybara-mi": "./index.js"
 }
 
 }
